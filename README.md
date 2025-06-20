@@ -4,7 +4,7 @@
 
 Each chapter focuses on a key concept used in scripting, automation, or DevOps workflows:
 
-### 📘 [Getting started](https://github.com/Endrit-Selita/Linux/blob/main/Modules/Introduction%20to%20Linux.md) – What is Bash?, Bash in DevOps, Create and Run Your First Script
+### 📘 [Getting started](https://github.com/Endrit-Selita/BASH-Scripting/blob/main/Getting%20Started.md) – What is Bash?, Bash in DevOps, Create and Run Your First Script
 
 ### 🧠 Fundamentals – Variables, Parameters, Arithmetic, User Input
 
