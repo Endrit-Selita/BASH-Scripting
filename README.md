@@ -16,4 +16,4 @@ Each chapter focuses on a key concept used in scripting, automation, or DevOps w
 
 ### 🔒 [Robust Scripting](https://github.com/Endrit-Selita/BASH-Scripting/blob/main/Robust%20Scripting.md) – Error Handling, Exit Codes, `set -e`, `set -u`, `set -x`, `set -eux`
 
-### 🚀 DevOps Practicalities – Running Scripts from Anywhere, Piping, File Checksums
+### 🚀 [DevOps Practicalities](https://github.com/Endrit-Selita/BASH-Scripting/blob/main/DevOps%20Practicalities.md) – Running Scripts from Anywhere, Piping, File Checksums
