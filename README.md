@@ -8,7 +8,7 @@ Each chapter focuses on a key concept used in scripting, automation, or DevOps w
 
 ### 🧠 [Fundamentals](https://github.com/Endrit-Selita/BASH-Scripting/blob/main/Fundamentals.md) – Variables, Parameters, Arithmetic, User Input
 
-### 🔁 Control Flow – Conditionals (if/else/elif), Loops (for/while), break and continue
+### 🔁 [Control Flow](https://github.com/Endrit-Selita/BASH-Scripting/blob/main/Control%20Flow.md) – Conditionals (if/else/elif), Loops (for/while), break and continue
 
 ### 🧰 Functions & Modularity – Writing Functions, Local Variables, Reusability
 
