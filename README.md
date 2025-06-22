@@ -14,6 +14,6 @@ Each chapter focuses on a key concept used in scripting, automation, or DevOps w
 
 ### 📦 [Files & Data Handling](https://github.com/Endrit-Selita/BASH-Scripting/blob/main/Files%20%26%20Data%20Handling.md) – Reading/Writing Files, Environment Variables, Input Handling
 
-### 🔒 Robust Scripting – Error Handling, Exit Codes, `set -e`, `set -u`, `set -x`, `set -eux`
+### 🔒 [Robust Scripting](https://github.com/Endrit-Selita/BASH-Scripting/blob/main/Robust%20Scripting.md) – Error Handling, Exit Codes, `set -e`, `set -u`, `set -x`, `set -eux`
 
 ### 🚀 DevOps Practicalities – Running Scripts from Anywhere, Piping, File Checksums
