@@ -6,7 +6,7 @@ Each chapter focuses on a key concept used in scripting, automation, or DevOps w
 
 ### 📘 [Getting started](https://github.com/Endrit-Selita/BASH-Scripting/blob/main/Getting%20Started.md) – What is Bash?, Bash in DevOps, Create and Run Your First Script
 
-### 🧠 Fundamentals – Variables, Parameters, Arithmetic, User Input
+### 🧠 [Fundamentals](https://github.com/Endrit-Selita/BASH-Scripting/blob/main/Fundamentals.md) – Variables, Parameters, Arithmetic, User Input
 
 ### 🔁 Control Flow – Conditionals (if/else/elif), Loops (for/while), break and continue
 
